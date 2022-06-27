@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align='center'>Game systems programmer at Ubisoft</p>
+<p align='center'>Shipped games, libraries, tools, plugins and much more. Working on <a href="https://github.com/PipeRift/rift">Rift</a> and <a href="https://github.com/PipeRift/pipe">Pipe</a>. </p>
+
+<div class="container" align="center">
+  <img alt="streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=muit&theme=dark&hide_border=true"/>
+</div>
 
 <!--
 **muit/muit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
