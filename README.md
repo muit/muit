@@ -1,4 +1,4 @@
-<p align='center'>Game systems programmer at CI Games</p>
+<p align='center'>Game systems programmer</p>
 <p align='center'>Shipped games, libraries, tools, plugins and much more. Working on <a href="https://github.com/PipeRift/rift">Rift</a> and <a href="https://github.com/PipeRift/pipe">Pipe</a>. </p>
 
 <div class="container" align="center">
