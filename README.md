@@ -2,7 +2,7 @@
 <p align='center'>Shipped games, libraries, tools, plugins and much more. Working on <a href="https://github.com/PipeRift/rift">Rift</a> and <a href="https://github.com/PipeRift/pipe">Pipe</a>. </p>
 
 <div class="container" align="center">
-  <img alt="streak" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=muit&theme=react&hide_border=true"/>
+  <img alt="streak" width="430" src="https://streak-stats.demolab.com?user=muit&theme=react&hide_border=true"/>
 </div>
 
 <!--
